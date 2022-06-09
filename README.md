@@ -26,4 +26,4 @@ blocos de codigo
 ```
 Regular [Link clicável](https://www.google.com.br/)
 
-Continua em [README2.md - Clique!](README2.md)
+Continua em [README2.md - Clique!](README2.md) - Isso é um link relativo!
