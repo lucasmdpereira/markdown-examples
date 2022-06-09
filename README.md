@@ -66,6 +66,12 @@ Referência 3[^note].
 
 <hr>
 
+[Link clicável](https://www.google.com.br/)
+
+[Link relativo](README2.md)
+
+<hr>
+
 Regular `$codigo ou comando`
 
 ```
@@ -73,6 +79,17 @@ Use aspas triplas
 para 
 blocos de codigo
 ```
-Regular [Link clicável](https://www.google.com.br/)
 
-Continua em [README2.md - Clique!](README2.md) - Isso é um link relativo!
+```Javascript
+let x="Bloco de código em JavaScript"
+console.log(x)
+```
+
+```Java
+String string="Bloco de código em Java";
+System.out.println(string);
+```
+
+
+
+<hr>
